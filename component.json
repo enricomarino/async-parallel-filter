@@ -1,0 +1,13 @@
+{
+  "name": "parallel-filter",
+  "repo": "component-async/parallel-filter",
+  "version": "0.0.0",
+  "description": "async parallel filter",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT"
+}
