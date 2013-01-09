@@ -1,0 +1,21 @@
+{
+  "name": "parallel-filter",
+  "description": "async parallel filter",
+  "version": "0.1.0",
+  "author": {
+    "name": "Enrico Marino",
+    "url": "http://onirame.com"
+  },
+  "main": "index.js",
+  "homepage": "https://github.com/component-async/parallel-filter",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/component-async/parallel-filter.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
