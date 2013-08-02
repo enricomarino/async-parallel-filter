@@ -1,10 +1,10 @@
-# parallel-filter
+# async-parallel-filter
 
 async parallel filter
 
 ## Installation
 
-    $ component install component-async/parallel-filter
+    $ component install enricomarino/async-parallel-filter
 
 ## License
 
