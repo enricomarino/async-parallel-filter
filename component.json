@@ -1,6 +1,6 @@
 {
-  "name": "parallel-filter",
-  "repo": "component-async/parallel-filter",
+  "name": "async-parallel-filter",
+  "repo": "enricomarino/async-parallel-filter",
   "version": "0.0.0",
   "description": "async parallel filter",
   "keywords": [],
