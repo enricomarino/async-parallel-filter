@@ -1,5 +1,5 @@
 {
-  "name": "parallel-filter",
+  "name": "async-parallel-filter",
   "description": "async parallel filter",
   "version": "0.1.0",
   "author": {
@@ -7,10 +7,10 @@
     "url": "http://onirame.com"
   },
   "main": "index.js",
-  "homepage": "https://github.com/component-async/parallel-filter",
+  "homepage": "https://github.com/enricomarino/parallel-filter",
   "repository": {
     "type": "git",
-    "url": "git://github.com/component-async/parallel-filter.git"
+    "url": "git://github.com/enricomarino/parallel-filter.git"
   },
   "main": "index.js",
   "engines": {
